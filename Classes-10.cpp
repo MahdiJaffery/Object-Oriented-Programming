@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// Lecture 018, 28th March 2023
-
 /* Inheritance
  * => Relationship among classes
  * => Is a relationship/parent-child/Relationship
