@@ -2,8 +2,6 @@
 #include "Header.h"
 using namespace std;
 
-// Lecture 012, 7th March 2023
-
 void AnotherClass::operator=(const AnotherClass &obj)
 {
     if (arr != nullptr)
